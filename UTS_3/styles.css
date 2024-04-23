@@ -24,6 +24,8 @@ header {
 
 .content {
     padding: 20px;
+    widht: 50%;
+    margin: auto;
 }
 
 .footer {
