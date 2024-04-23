@@ -30,6 +30,8 @@ nav a:hover {
 
 .content {
     padding: 20px;
+    width: 50%;
+    margin: auto;
 }
 
 footer {
